@@ -1,0 +1,37 @@
+.img{
+	background-image: url(../images/food6.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.content{
+	margin: 100px 0;
+	padding: 90px 65px;
+	background-color: rgba(17, 13, 33, 0.16);
+}
+.content h1{
+	font-size: 30px;
+    margin: 20px;
+}
+.content p{
+	margin-bottom: 50px;
+}
+.car-ind{
+    bottom: 110px;
+}
+.car-ind li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.content2{
+	margin: 100px 0;
+	padding: 0;
+	background-color: rgba(17, 13, 33, 0.16);
+}
+.content2 img{
+	min-height: 380px;
+}
+
+.car-ind2{
+	bottom: 105px;
+}
